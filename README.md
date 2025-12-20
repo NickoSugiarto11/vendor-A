@@ -18,5 +18,5 @@ Data disimpan dalam bentuk array objek seperti:
 1. GET (/) untuk menampilkan halaman utama dimana pada kode terdapat pesan sambutan.
 2. GET (/daftarWarung) untuk menampilkan daftar produk warung.
 
-## Dokumentasi Hasil Testing Pada Postman dan Localhost
+## Dokumentasi Hasil Testing Pada Postman
 <img width="2559" height="1527" alt="image" src="https://github.com/user-attachments/assets/ba139a39-4295-4c2a-b2e6-267ca3b77939" />
