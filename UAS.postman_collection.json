@@ -1,0 +1,30 @@
+{
+	"info": {
+		"_postman_id": "87790d4c-d486-479c-8228-842cfca04443",
+		"name": "UAS",
+		"schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json",
+		"_exporter_id": "47979685",
+		"_collection_link": "https://nicko9995sgt-7994784.postman.co/workspace/Nicko-S.'s-Workspace~0dc937f0-6d4a-41fd-851f-bd2027d26543/collection/47979685-87790d4c-d486-479c-8228-842cfca04443?action=share&source=collection_link&creator=47979685"
+	},
+	"item": [
+		{
+			"name": "Data",
+			"request": {
+				"method": "GET",
+				"header": [],
+				"url": {
+					"raw": "http://localhost:3000/daftarWarung",
+					"protocol": "http",
+					"host": [
+						"localhost"
+					],
+					"port": "3000",
+					"path": [
+						"daftarWarung"
+					]
+				}
+			},
+			"response": []
+		}
+	]
+}
